@@ -116,3 +116,18 @@ Phising_Detection_System/
 ├── README.md
 ├── .gitignore
 └── venv/
+
+
+## 📸 Application Screenshots
+
+### 🔗 Safe URL Analysis
+![Safe URL Analysis](safe-url.png)
+
+### 🚨 Suspicious URL Detection
+![Suspicious URL Detection](suspicious-url.png)
+
+### 📧 Safe Email Analysis
+![Safe Email Analysis](safe-email.png)
+
+### 🚨 Phishing Email Detection
+![Phishing Email Detection](phishing-email.png)
