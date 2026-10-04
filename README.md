@@ -123,14 +123,10 @@ Phising_Detection_System/
 
 ## 📸 Application Screenshots
 
-### 🔗 Safe URL Analysis
-![Safe URL Analysis](safe-url.png)
+![Safe URL Analysis](screenshots/safe-url.png)
 
-### 🚨 Suspicious URL Detection
-![Suspicious URL Detection](suspicious-url.png)
+![Suspicious URL Detection](screenshots/suspicious-url.png)
 
-### 📧 Safe Email Analysis
-![Safe Email Analysis](safe-email.png)
+![Safe Email Analysis](screenshots/safe-email.png)
 
-### 🚨 Phishing Email Detection
-![Phishing Email Detection](phishing-email.png)
+![Phishing Email Detection](screenshots/phishing-email.png)
